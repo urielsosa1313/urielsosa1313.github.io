@@ -1,77 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Uriel Sosa - SDR Resume</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Uriel Sosa - Resume</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 40px;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background: white;
-      padding: 30px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1, h2 {
-      color: #111;
-    }
-    .section {
-      margin-bottom: 25px;
-    }
-    .label {
-      font-weight: bold;
-      display: inline-block;
-      min-width: 120px;
-    }
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 40px; }
+    .container { max-width: 800px; background: #fff; margin: auto; padding: 30px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1, h2 { color: #222; }
+    ul { padding-left: 20px; }
+    a { color: #1a0dab; text-decoration: none; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
   <div class="container">
     <h1>Uriel Sosa</h1>
-    <p><strong>Sales Development Representative</strong></p>
+    <p><strong>Sales Development Representative</strong><br>New York, NY 10001<br>929-320-8184 | <a href="mailto:sosauriel190@gmail.com">sosauriel190@gmail.com</a></p>
 
-    <div class="section">
-      <h2>Summary</h2>
-      <p>Sales Development Representative with 3+ years of experience building $6.1M+ in qualified pipeline and driving $700K in annual profit through outbound lead generation and cold outreach. Skilled in email, phone, and LinkedIn outreach. Proficient in HubSpot and Salesforce. Focused on clean CRM data, fast execution, and booking high-quality meetings.</p>
-    </div>
+    <h2>Professional Summary</h2>
+    <p>High-performing service professional with 3 years of experience driving $6.1M in sales through a strategic, customer-centric approach to upselling and engagement. Proven ability to deliver tailored solutions in fast-paced, high-volume environments. Skilled in relationship building, problem-solving, and client retention. Consistently increased client base by 120% and maintained 60 weekly returning clients, generating $700K in annual net profit.</p>
 
-    <div class="section">
-      <h2>Experience</h2>
-      <ul>
-        <li><strong>SDR – Yeves Co.</strong><br>
-          Generated $6.1M+ in pipeline, booked 200+ meetings, and achieved 120%+ of monthly quota.</li>
-        <li><strong>Lead Gen Specialist – Freelance (Upwork)</strong><br>
-          Delivered high-quality B2B leads for SaaS startups. Used automation and VA teams to hit 100+ hours/week output.</li>
-      </ul>
-    </div>
+    <h2>Accomplishments</h2>
+    <ul>
+      <li>FY23 Top Performer – Q1 (Yves)</li>
+      <li>FY21 Rookie of the Year (Yves)</li>
+      <li>Top 5% customer satisfaction scores based on post-service feedback over 12 months</li>
+    </ul>
 
-    <div class="section">
-      <h2>Skills</h2>
-      <p>Outbound Sales, Cold Email, LinkedIn Outreach, Appointment Setting, Lead Generation, HubSpot, Salesforce, CRM Hygiene, Pipeline Management</p>
-    </div>
+    <h2>Work History</h2>
+    <ul>
+      <li><strong>Yeves – Sales Development Representative</strong> (New York, NY | Oct 2021 – Present)<br>
+        Achieved 120% average quota attainment, generating $800K in net revenue.<br>
+        Contributed to $3.1M in total sales and $650K in net new revenue through strategic upselling.<br>
+        Maintained consistent lead follow-up and CRM data hygiene in Salesforce & HubSpot.
+      </li>
+    </ul>
 
-    <div class="section">
-      <h2>Certifications</h2>
-      <ul>
-        <li>HubSpot CRM Certification</li>
-        <li>Salesforce CRM Certification</li>
-      </ul>
-    </div>
+    <h2>Skills</h2>
+    <p>Cold Calling, Outbound Sales, Sales Development, Appointment Setting, Lead Generation, Lead Qualification, Account Management, Pipeline Development, Email Marketing, Copywriting, Prospecting, Customer Relationship Building, LinkedIn Sales Navigator, CRM Management (Salesforce, HubSpot), Microsoft Office</p>
 
-    <div class="section">
-      <h2>Contact</h2>
-      <p>Email: your.email@example.com<br>
-         LinkedIn: <a href="https://www.linkedin.com/in/urielsosa1313">linkedin.com/in/urielsosa1313</a></p>
-    </div>
+    <h2>Certifications</h2>
+    <ul>
+      <li>HubSpot CRM Certification</li>
+      <li>Salesforce CRM Certification</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+      <li>Baruch College – New York, NY</li>
+      <li>New York City College of Technology – Brooklyn, NY</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:sosauriel190@gmail.com">sosauriel190@gmail.com</a><br>
+    LinkedIn: <a href="https://www.linkedin.com/in/uriel-sosa-184b3732a" target="_blank">linkedin.com/in/uriel-sosa-184b3732a</a></p>
   </div>
 </body>
 </html>
-# urielsosa1313.github.io
