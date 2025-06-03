@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sosa</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 40px; }
+    .container { max-width: 800px; background: #fff; margin: auto; padding: 30px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1, h2 { color: #222; }
+    ul { padding-left: 20px; }
+    a { color: #1a0dab; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sosa</h1>
+    <p><strong>Sales Development Representative</strong><br>New York, NY 10001<br>929-320-8184 | <a href="mailto:sosauriel190@gmail.com">sosauriel190@gmail.com</a></p>
+
+    <h2>Professional Summary</h2>
+    <p>High-performing service professional with 3 years of experience driving $6.1M in sales through a strategic, customer-centric approach to upselling and engagement. Proven ability to deliver tailored solutions in fast-paced, high-volume environments. Skilled in relationship building, problem-solving, and client retention. Consistently increased client base by 120% and maintained 60 weekly returning clients, generating $700K in annual net profit.</p>
+
+    <h2>Accomplishments</h2>
+    <ul>
+      <li>FY23 Top Performer – Q1 (Yves)</li>
+      <li>FY21 Rookie of the Year (Yves)</li>
+      <li>Top 5% customer satisfaction scores based on post-service feedback over 12 months</li>
+    </ul>
+
+    <h2>Work History</h2>
+    <ul>
+      <li><strong>Yeves – Sales Development Representative</strong> (New York, NY | Oct 2021 – Present)<br>
+        Achieved 120% average quota attainment, generating $800K in net revenue.<br>
+        Contributed to $3.1M in total sales and $650K in net new revenue through strategic upselling.<br>
+        Maintained consistent lead follow-up and CRM data hygiene in Salesforce & HubSpot.
+      </li>
+    </ul>
+
+    <h2>Skills</h2>
+    <p>Cold Calling, Outbound Sales, Sales Development, Appointment Setting, Lead Generation, Lead Qualification, Account Management, Pipeline Development, Email Marketing, Copywriting, Prospecting, Customer Relationship Building, LinkedIn Sales Navigator, CRM Management (Salesforce, HubSpot), Microsoft Office</p>
+
+    <h2>Certifications</h2>
+    <ul>
+      <li>HubSpot CRM Certification</li>
+      <li>Salesforce CRM Certification</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+      <li>Baruch College – New York, NY</li>
+      <li>New York City College of Technology – Brooklyn, NY</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:sosauriel190@gmail.com">sosauriel190@gmail.com</a><br>
+    LinkedIn: <a href="https://www.linkedin.com/in/uriel-sosa-184b3732a" target="_blank">linkedin.com/in/uriel-sosa-184b3732a</a></p>
+  </div>
+</body>
+</html>
